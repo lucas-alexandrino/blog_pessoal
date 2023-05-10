@@ -7,7 +7,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de dese
 <li> Java Development Kit (JDK) 8 ou superior
 <li> Spring Boot
 <li> MySQL
-  <li> IDE de sua preferência (recomendamos o uso do IntelliJ ou Eclipse) </li>
+  <li> IDE de sua preferência (recomendo o uso do IntelliJ ou Eclipse) </li>
 </ul>
 
 # Instruções de Instalação
@@ -44,4 +44,4 @@ Para obter mais detalhes sobre os endpoints disponíveis e os dados esperados, c
 # Contato
 Se tiver alguma dúvida ou sugestão relacionada a este projeto, pode entrar em contato comigo através do email lucas.alexcontato@gmail.com
 
-Agradecemos seu interesse no Blog Pessoal. Esperamos que este projeto seja útil e inspire outros desenvolvedores a criar seus próprios blogs pessoais!
+Agradeço seu interesse no Blog Pessoal. Espero que este projeto seja útil e inspire outros desenvolvedores a criar seus próprios blogs pessoais!
